@@ -18,6 +18,7 @@
  alt="punto 2">
 
  <h2>Punto 4: Titulos</h2>
+ <img src="./public/imag/punto-4.png.png">
 
  <h2>Punto 5: Párrafos</h2>
 
