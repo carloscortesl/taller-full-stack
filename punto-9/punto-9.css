@@ -1,0 +1,23 @@
+table {
+width: 800px;
+border-collapse: collapse;
+margin-top: 20px;
+background-color: yellow;
+}
+th {
+border: 2px dotted black;
+padding: 8px;
+text-align: left;
+color: red;
+}
+td {
+border: 2px dotted black;
+padding: 8px;
+text-align: left;
+}
+.title_1 {
+    text-align: center;
+}
+.title_2 {
+    text-align: center;
+}
