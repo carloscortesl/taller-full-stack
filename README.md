@@ -19,7 +19,7 @@
 
  <h2>Punto 4: Titulos</h2>
  <img src="./public/imag/punto-4.png.png">
-
+ 
  <h2>Punto 5: Párrafos</h2>
  <img src="./public/imag/punto-5.png">
 
@@ -27,6 +27,6 @@
  <img src="./public/imag/punto-6.png">
 
  <h2>Punto 7 y 8: Navegación</h2>
- <img src="./public/imag/punto-7-8.png>
+ <img src="./public/imag/punto-7-8.png">
 
  <h2>Punto 9: Tabla</h2>
